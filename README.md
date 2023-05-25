@@ -10,7 +10,7 @@ The script leverages a few powerful Python libraries and the OMDB API to do the 
 4. **Tkinter** for crafting a smooth and interactive GUI 🖼️
 5. **OMDB API** for extracting those sought-after movie ratings 🌟
 
-If you don't have an OMDB API key, don't fret - the tutorial on our [YouTube channel](https://www.youtube.com/watch?v=3ILe4A_s-9I) will guide you through the process!
+If you don't have an OMDB API key, don't fret - the tutorial on my [YouTube channel](https://www.youtube.com/watch?v=3ILe4A_s-9I) will guide you through the process!
 
 ## How to Run the Script
 
@@ -29,11 +29,11 @@ If you don't have an OMDB API key, don't fret - the tutorial on our [YouTube cha
 
 ## Contributing
 
-We welcome all contributions! If you'd like to contribute, feel free to open a pull request.
+I welcome all contributions! If you'd like to contribute, feel free to open a pull request.
 
 ## Questions or Suggestions?
 
-Feel free to open an issue here or comment on our YouTube channel. We appreciate all feedback, questions, and suggestions.
+Feel free to open an issue here or comment on our YouTube channel. I appreciate all feedback, questions, and suggestions.
 
 Remember to Like, Comment, and Subscribe for more coding adventures! With Pareto Learner, 20% of the effort leads to 80% of the results! 🚀
 
